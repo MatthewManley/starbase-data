@@ -1,5 +1,5 @@
 {
-    "towerprices": {
+    "towerPrices": {
         "aegisuim": 2503.87,
         "ajatite": 544.32,
         "arkanium": 0,
@@ -34,7 +34,8 @@
             "shieldResearch": 0,
             "gearResearch": 32,
             "craftingBench": 1,
-            "researchNode": null
+            "researchNode": null,
+            "sellPrice": null
         }
     ]
 }
